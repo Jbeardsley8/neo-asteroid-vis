@@ -8,7 +8,7 @@ This project was created to deepen my experience working with APIs while explori
 
 ### 📸 Demo
 
-![3D Orbit Visualization](assets\msedge_MzyFU8t5XD.gif)
+![3D Orbit Visualization](assets/msedge_MzyFU8t5XD.gif)
 
 #### 🛰️ Data Source
 
