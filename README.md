@@ -18,4 +18,11 @@ Data includes:
 
 The data was processed using Python for visualization in Plotly.
 
-![Data: NASA NEO API](https://img.shields.io/badge/data-NASA%20NEO%20API-blue)
+### 🔑 NASA API Key
+
+To run the data pull scripts, you will need a **NASA API key** (free and easy to obtain):
+
+1. Visit [https://api.nasa.gov/](https://api.nasa.gov/).
+2. Sign up for an API key.
+3. Replace `api_key = "YOUR_KEY_HERE"` in the script with your personal key.
+
