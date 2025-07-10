@@ -41,5 +41,24 @@ To run the data pull scripts, you will need a **NASA API key** (free and easy to
 
 ### File Structure
 
-<pre> neo-asteroid-vis/ ├── docs/ │ ├── index.html # GitHub Pages landing page │ ├── asteroid_orbit_plot.html # Interactive Plotly visualization │ ├── asteroid_orbital_dataset.csv # Exported asteroid data │ └── htmljpg/ │ └── starfield.jpg # Space background image ├── astroid_orbit.ipynb # Notebook for API pull and visualization ├── assets/ # GIF for README/demo │ └── orbit_demo.gif └── README.md # Project documentation </pre>
+neo-asteroid-vis/
 
+docs/
+
+index.html – GitHub Pages landing page
+
+asteroid_orbit_plot.html – Interactive Plotly visualization
+
+asteroid_orbital_dataset.csv – Exported asteroid data
+
+htmljpg/
+
+starfield.jpg – Space background image
+
+astroid_orbit.ipynb – Notebook for API pull and visualization
+
+assets/ – GIF for README/demo
+
+orbit_demo.gif
+
+README.md – Project documentation
