@@ -2,6 +2,9 @@
 
 Interactive 3D Visualation of near-Earth asteroid orbits.
 
+[![Live Demo](https://img.shields.io/badge/Demo-Live-%23007ACC?logo=githubpages&logoColor=white)](https://jbeardsley8.github.io/neo-asteroid-vis/)
+
+
 ## Overview
 
 This project was created to deepen my experience working with APIs while exploring an area I find fascinating, space data.
@@ -9,11 +12,6 @@ This project was created to deepen my experience working with APIs while explori
 ### Demo
 
 ![3D Orbit Visualization](assets/msedge_MzyFU8t5XD.gif)
-
-
-### Link to the GitHub Page [![Live URL](https://img.shields.io/badge/Live-URL-purple)](https://jbeardsley8.github.io/neo-asteroid-vis/)
-
-
 
 ### Data Source
 
@@ -51,4 +49,4 @@ To run the data pull scripts, you will need a **NASA API key** (free and easy to
   - `astroid_orbit.ipynb` – Notebook for API pull and visualization
   - `assets/` – GIF for README/demo
     - `orbit_demo.gif`
-  - `README.md` – Project documentation
+  - `README.md` 
