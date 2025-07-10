@@ -15,7 +15,7 @@ This project was created to deepen my experience working with APIs while explori
 [![Live URL](https://img.shields.io/badge/Live-URL-blue)](https://jbeardsley8.github.io/neo-asteroid-vis/)
 
 
-##### Data Source
+#### Data Source
 
 The near-Earth asteroid data used in this project was retrieved from the **[NASA Near-Earth Object Web Service (NeoWs) API](https://api.nasa.gov/)**.
 
@@ -31,7 +31,7 @@ Data includes:
 
 The data was processed using Python for visualization in Plotly.
 
-###### NASA API Key
+#### NASA API Key
 
 To run the data pull scripts, you will need a **NASA API key** (free and easy to obtain):
 
@@ -39,9 +39,17 @@ To run the data pull scripts, you will need a **NASA API key** (free and easy to
 2. Sign up for an API key.
 3. Replace `api_key = "YOUR_KEY_HERE"` in the script with your personal key.
 
-###### Acknowledgements
+#### File Structure
 
-- **[NASA NeoWs API](https://api.nasa.gov/)** for providing access to near-Earth object data.
-- **Plotly**, for enabling interactive 3D visualizations.
-- **Python** and its data ecosystem (Pandas, NumPy, Matplotlib, Requests) for data processing and analysis.
+neo-astroid-vis/
+├── docs/
+│ ├── index.html # GitHub Pages landing page
+│ ├── asteroid_orbit_plot.html # Interactive Plotly visualization
+│ ├── asteroid_orbital_dataset.csv # Exported asteroid data
+│ └── htmljpg/
+│ └── starfield.jpg # Space background image
+├── astroid_orbit.ipynb # Notebook for API pull and visualization
+├── assets/ # gif for README/demo
+│ └── orbit_demo.gif
+├── README.md # Project documentation
 
