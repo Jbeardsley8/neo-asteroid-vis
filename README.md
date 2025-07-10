@@ -11,8 +11,8 @@ This project was created to deepen my experience working with APIs while explori
 ![3D Orbit Visualization](assets/msedge_MzyFU8t5XD.gif)
 
 
-### Link to the GitHub Page
-[![Live URL](https://img.shields.io/badge/Live-URL-blue)](https://jbeardsley8.github.io/neo-asteroid-vis/)
+### Link to the GitHub Page [![Live URL](https://img.shields.io/badge/Live-URL-purple)](https://jbeardsley8.github.io/neo-asteroid-vis/)
+
 
 
 ### Data Source
@@ -41,15 +41,5 @@ To run the data pull scripts, you will need a **NASA API key** (free and easy to
 
 ### File Structure
 
-neo-astroid-vis/
- - docs/
- -- index.html # GitHub Pages landing page
- -- asteroid_orbit_plot.html # Interactive Plotly visualization
- -- asteroid_orbital_dataset.csv # Exported asteroid data
- -- htmljpg/
- --- starfield.jpg # Space background image 
- -  astroid_orbit.ipynb # Notebook for API pull and visualization
- -  assets/ # gif for README/demo
- --  orbit_demo.gif
- - README.md # Project documentation
+<pre> neo-asteroid-vis/ ├── docs/ │ ├── index.html # GitHub Pages landing page │ ├── asteroid_orbit_plot.html # Interactive Plotly visualization │ ├── asteroid_orbital_dataset.csv # Exported asteroid data │ └── htmljpg/ │ └── starfield.jpg # Space background image ├── astroid_orbit.ipynb # Notebook for API pull and visualization ├── assets/ # GIF for README/demo │ └── orbit_demo.gif └── README.md # Project documentation </pre>
 
