@@ -57,6 +57,4 @@ To run the data pull scripts, you will need a **NASA API key** (free and easy to
 - [Wikipedia – Orbit Equation](https://en.wikipedia.org/wiki/Orbit_equation)
 - [Wikipedia – Kepler Orbit](https://en.wikipedia.org/wiki/Kepler_orbit)
 - [Wikipedia – Orbital Elements](https://en.wikipedia.org/wiki/Orbital_elements#Position_in_orbit)
-- Curtis, H. D. (2014). *Orbital Mechanics for Engineering Students* (3rd ed.). Elsevier.
-- Vallado, D. A. (2013). *Fundamentals of Astrodynamics and Applications* (4th ed.). Microcosm Press.
 
