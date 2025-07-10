@@ -10,7 +10,7 @@ This project was created to deepen my experience working with APIs while explori
 
 ![3D Orbit Visualization](assets/msedge_MzyFU8t5XD.gif)
 
-[![Live URL](https://img.shields.io/badge/Live-Demo-blue)](https://jbeardsley8.github.io/neo-asteroid-vis/)
+[![Live URL](https://img.shields.io/badge/Live-URL-blue)](https://jbeardsley8.github.io/neo-asteroid-vis/)
 
 
 #### Data Source
