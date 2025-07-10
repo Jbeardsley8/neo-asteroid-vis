@@ -1,4 +1,4 @@
-# 🚀 Near-Earth Asteroid 3D Visualization
+# 🚀 Near-Earth Asteroids: 3D Orbit Visualization
 
 Interactive 3D Visualation of near-Earth asteroid orbits.
 
