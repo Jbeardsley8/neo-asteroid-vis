@@ -6,14 +6,16 @@ Interactive 3D Visualation of near-Earth asteroid orbits.
 
 This project was created to deepen my experience working with APIs while exploring an area I find fascinating, space data.
 
-### Demo & Live URL
+### Demo
 
 ![3D Orbit Visualization](assets/msedge_MzyFU8t5XD.gif)
 
+
+#### Link to the GitHub Page
 [![Live URL](https://img.shields.io/badge/Live-URL-blue)](https://jbeardsley8.github.io/neo-asteroid-vis/)
 
 
-#### Data Source
+##### Data Source
 
 The near-Earth asteroid data used in this project was retrieved from the **[NASA Near-Earth Object Web Service (NeoWs) API](https://api.nasa.gov/)**.
 
@@ -29,7 +31,7 @@ Data includes:
 
 The data was processed using Python for visualization in Plotly.
 
-##### NASA API Key
+###### NASA API Key
 
 To run the data pull scripts, you will need a **NASA API key** (free and easy to obtain):
 
