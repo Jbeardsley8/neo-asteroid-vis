@@ -2,7 +2,8 @@
 
 Interactive 3D Visualation of near-Earth asteroid orbits.
 
-[![Live Demo](https://img.shields.io/badge/Demo-Live-%23007ACC?logo=githubpages&logoColor=white)](https://jbeardsley8.github.io/neo-asteroid-vis/)
+[![Live GitHub Page](https://img.shields.io/badge/Live%20GitHub%20Page-%23007ACC?logo=github&logoColor=white)](https://jbeardsley8.github.io/neo-asteroid-vis/)
+
 
 
 ## Overview
