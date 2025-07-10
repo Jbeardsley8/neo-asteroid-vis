@@ -6,9 +6,12 @@ Interactive 3D Visualation of near-Earth asteroid orbits.
 
 This project was created to deepen my experience working with APIs while exploring an area I find fascinating, space data.
 
-### Demo
+### Demo & Live URL
 
 ![3D Orbit Visualization](assets/msedge_MzyFU8t5XD.gif)
+
+[![Live URL](https://img.shields.io/badge/Live-Demo-blue)](https://jbeardsley8.github.io/neo-asteroid-vis/)
+
 
 #### Data Source
 
